@@ -6,7 +6,7 @@ Libraries Needed: <br>
 - MySQL <br>
 - Python 3.6 <br>
 - pip install line-bot-sdk <br>
-- pip install falsk* <br>
+- pip install flask* <br>
 - pip install mysqlclient <br>
 - pip install oauth2 <br>
 - pip install gunicorn <br>
